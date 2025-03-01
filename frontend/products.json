@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "Organic Turmeric Capsules", "price": 12.99 },
+    { "id": 2, "name": "Herbal Cough Syrup", "price": 8.50 },
+    { "id": 3, "name": "Aloe Vera Gel", "price": 6.99 },
+    { "id": 4, "name": "Ginger Extract Immunity Booster", "price": 15.00 },
+    { "id": 5, "name": "Eco-friendly Packaging Bandages", "price": 5.00 }
+  ]
